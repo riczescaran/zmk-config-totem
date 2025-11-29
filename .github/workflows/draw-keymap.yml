@@ -18,4 +18,5 @@ jobs:
       config_path: "keymap_drawer.config.yaml"
       output_folder: "keymap-drawer"
       parse_args: ""
+      draw_args: "totem:-n 133333+3 3+333331"
       commit_message: "keymap-drawer render [skip ci]"
