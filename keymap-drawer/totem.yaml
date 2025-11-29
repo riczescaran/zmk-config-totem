@@ -89,7 +89,7 @@ layers:
   - F8
   - F9
   - F12
-  - '&bootloader'
+  - '&studio_unlock'
   - BT Nxt
   - Vol+
   - Bri+
