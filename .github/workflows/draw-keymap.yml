@@ -5,7 +5,7 @@ on:
     paths:
       - "config/*.keymap"
       - "config/*.dtsi"
-      - "keymap-drawer/keymap_drawer.config.yaml"
+      - "keymap_drawer.config.yaml"
       - ".github/workflows/draw-keymap.yml"
 
 jobs:
@@ -15,7 +15,7 @@ jobs:
       contents: write # allow workflow to commit to the repo
     with:
       keymap_patterns: "config/*.keymap"
-      config_path: "keymap-drawer/keymap_drawer.config.yaml"
+      config_path: "keymap_drawer.config.yaml"
       output_folder: "keymap-drawer"
       parse_args: ""
       draw_args: "totem:-n 133333+3 3+333331"
