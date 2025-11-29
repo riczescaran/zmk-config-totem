@@ -21,7 +21,7 @@ layers:
   - K
   - L
   - ;
-  - Shift
+  - {t: TAB, h: Shift}
   - Z
   - X
   - C
@@ -60,7 +60,7 @@ layers:
   - '5'
   - '6'
   - '-'
-  - Shift
+  - {t: TAB, h: Shift}
   - {t: ▽, type: trans}
   - PgUp
   - CAPS
