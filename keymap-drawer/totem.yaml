@@ -43,7 +43,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - UP
-  - EQUAL
+  - {t: ▽, type: trans}
   - '{'
   - '}'
   - '7'
@@ -60,7 +60,7 @@ layers:
   - '5'
   - '6'
   - '-'
-  - {t: ▽, type: trans}
+  - Shift
   - {t: ▽, type: trans}
   - PgUp
   - CAPS
