@@ -38,7 +38,7 @@ layers:
   - ___
   - {t: Enter, h: Alt}
   - {t: Bksp, h: NAVI}
-  - {t: Esc, h: ADJ}
+  - {t: Alt, h: ADJ}
   NAVI:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}

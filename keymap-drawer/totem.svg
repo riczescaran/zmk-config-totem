@@ -213,7 +213,7 @@ text.mod {
 </a></g>
 <g transform="translate(596, 236)" class="key keypos-37">
 <rect rx="4" ry="4" x="-28" y="-26" width="55" height="52" class="key"/>
-<text x="0" y="0" class="key tap">Esc</text>
+<text x="0" y="0" class="key tap">Alt</text>
 <a href="#ADJ">
 <text x="0" y="24" class="key hold layer-activator">ADJ</text>
 </a></g>
