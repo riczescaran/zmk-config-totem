@@ -78,7 +78,6 @@ draw_config:
 parse_config:
   preprocess: true
   skip_binding_parsing: false
-  raw_binding_map: true
   sticky_label: $$mdi:layer-plus$$
   toggle_label: $$mdi:toggle-switch$$
 
