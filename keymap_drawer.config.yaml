@@ -1,0 +1,130 @@
+draw_config:
+  key_w: 60.0
+  key_h: 56.0
+  split_gap: 30.0
+  combo_w: 24.0
+  combo_h: 22.0
+  key_rx: 4.0
+  key_ry: 4.0
+  n_columns: 1
+  separate_combo_diagrams: true
+  inner_pad_w: 2.0
+  inner_pad_h: 2.0
+  outer_pad_w: 12.0
+  outer_pad_h: 12.0
+  line_spacing: 1.2
+  arc_radius: 6.0
+  append_colon_to_layer_header: true
+  small_pad: 2.0
+  svg_style: |
+    /* inherit to force style */
+    svg.keymap {
+        font-family: 'Iosevka', 'Fira Code', monospace;
+        font-size: 14px;
+        font-kerning: normal;
+        text-rendering: optimizeLegibility;
+        fill: #24292e;
+    }
+
+    /* default key styling */
+    rect.key {
+        fill: #f6f8fa;
+        stroke: #c9cccf;
+        stroke-width: 1;
+    }
+
+    /* color accent for held keys */
+    rect.held, rect.combo.held {
+        fill: #fdd;
+    }
+
+    /* color accent for ghost (optional) keys */
+    rect.ghost, rect.combo.ghost {
+        stroke-dasharray: 4, 4;
+        stroke-width: 2;
+    }
+
+    text {
+        text-anchor: middle;
+        dominant-baseline: middle;
+    }
+
+    /* styling for layer labels */
+    text.label {
+        font-weight: bold;
+        text-anchor: start;
+        stroke: white;
+        stroke-width: 2;
+        paint-order: stroke fill;
+    }
+
+    /* styling for combo labels */
+    text.combo {
+        fill: #555;
+        font-size: 11px;
+    }
+
+    /* styling for held key labels */
+    text.held {
+        fill: #dd0000;
+    }
+
+    /* styling for home row modifiers */
+    text.mod {
+        font-size: 12px;
+    }
+
+parse_config:
+  preprocess: true
+  skip_binding_parsing: false
+  raw_binding_map: true
+  sticky_label: $$mdi:layer-plus$$
+  toggle_label: $$mdi:toggle-switch$$
+
+  zmk_keycode_map:
+    SPACE: "___"
+    RET: Enter
+    BSPC: Bksp
+    ESC: Esc
+    LSHFT: Shift
+    RSHFT: Shift
+    LCTRL: Ctrl
+    RCTRL: Ctrl
+    LGUI: Cmd
+    RGUI: Cmd
+    LALT: Alt
+    RALT: Alt
+    FSLH: /
+    BSLH: \
+    SEMI: ;
+    COMMA: ","
+    DOT: .
+    KP_N0: "0"
+    KP_N1: "1"
+    KP_N2: "2"
+    KP_N3: "3"
+    KP_N4: "4"
+    KP_N5: "5"
+    KP_N6: "6"
+    KP_N7: "7"
+    KP_N8: "8"
+    KP_N9: "9"
+    KP_PLUS: +
+    KP_MINUS: "-"
+    KP_MULTIPLY: "*"
+    LBRC: "{"
+    RBRC: "}"
+    LBKT: "["
+    RBKT: "]"
+    LPAR: (
+    RPAR: )
+    PG_UP: PgUp
+    PG_DN: PgDn
+    C_VOL_UP: Vol+
+    C_VOL_DN: Vol-
+    C_MUTE: Mute
+    C_BRI_UP: Bri+
+    C_BRI_DN: Bri-
+    BT_CLR: BT Clr
+    BT_NXT: BT Nxt
+    BT_PRV: BT Prv
