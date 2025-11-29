@@ -40,7 +40,7 @@ layers:
   - {t: Bksp, h: NAVI}
   - {t: Esc, h: ADJ}
   NAVI:
-  - Esc
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - UP
   - EQUAL
@@ -75,9 +75,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - ADJ
-  - {t: '0', type: held}
   - {t: ▽, type: trans}
+  - {type: held}
+  - '0'
   ADJ:
   - '&sys_reset'
   - BT Clr
