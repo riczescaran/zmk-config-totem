@@ -1,3 +1,4 @@
+# Keymap drawer configuration for Totem keyboard
 draw_config:
   key_w: 60.0
   key_h: 56.0
