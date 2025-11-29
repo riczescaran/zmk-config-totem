@@ -118,6 +118,7 @@ text.mod {
 <g transform="translate(330, 121)" class="key keypos-14">
 <rect rx="4" ry="4" x="-28" y="-26" width="55" height="52" class="key"/>
 <text x="0" y="0" class="key tap">G</text>
+<text x="0" y="24" class="key hold">Cmd</text>
 </g>
 <g transform="translate(520, 121)" class="key keypos-15">
 <rect rx="4" ry="4" x="-28" y="-26" width="55" height="52" class="key"/>

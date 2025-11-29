@@ -15,7 +15,7 @@ layers:
   - S
   - D
   - F
-  - G
+  - {t: G, h: Cmd}
   - H
   - J
   - K
