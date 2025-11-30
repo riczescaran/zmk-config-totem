@@ -433,11 +433,11 @@ text.mod {
 </g>
 <g transform="translate(212, 84)" class="key keypos-12">
 <rect rx="4" ry="4" x="-28" y="-26" width="55" height="52" class="key"/>
-<text x="0" y="0" class="key tap">Vol+</text>
+<text x="0" y="0" class="key tap">Bri+</text>
 </g>
 <g transform="translate(271, 112)" class="key keypos-13">
 <rect rx="4" ry="4" x="-28" y="-26" width="55" height="52" class="key"/>
-<text x="0" y="0" class="key tap">Bri+</text>
+<text x="0" y="0" class="key tap">Vol+</text>
 </g>
 <g transform="translate(330, 121)" class="key trans keypos-14">
 <rect rx="4" ry="4" x="-28" y="-26" width="55" height="52" class="key trans"/>
@@ -481,11 +481,11 @@ text.mod {
 </g>
 <g transform="translate(212, 140)" class="key keypos-23">
 <rect rx="4" ry="4" x="-28" y="-26" width="55" height="52" class="key"/>
-<text x="0" y="0" class="key tap">Vol-</text>
+<text x="0" y="0" class="key tap">Bri-</text>
 </g>
 <g transform="translate(271, 168)" class="key keypos-24">
 <rect rx="4" ry="4" x="-28" y="-26" width="55" height="52" class="key"/>
-<text x="0" y="0" class="key tap">Bri-</text>
+<text x="0" y="0" class="key tap">Vol-</text>
 </g>
 <g transform="translate(330, 177)" class="key trans keypos-25">
 <rect rx="4" ry="4" x="-28" y="-26" width="55" height="52" class="key trans"/>
