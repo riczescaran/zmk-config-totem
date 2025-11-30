@@ -70,8 +70,8 @@ layers:
   - '1'
   - '2'
   - '3'
-  - '*'
-  - {t: ▽, type: trans}
+  - SQT
+  - GRAVE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
