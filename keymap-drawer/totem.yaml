@@ -82,9 +82,9 @@ layers:
   - '&sys_reset'
   - BT Clr
   - Mute
+  - PREV
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Bri+
   - F7
   - F8
   - F9
@@ -92,9 +92,9 @@ layers:
   - '&bootloader'
   - BT Nxt
   - Vol+
-  - Bri+
+  - PP
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Bri-
   - F4
   - F5
   - F6
@@ -103,7 +103,7 @@ layers:
   - {t: ▽, type: trans}
   - BT Prv
   - Vol-
-  - Bri-
+  - NEXT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - F1
