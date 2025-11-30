@@ -71,7 +71,7 @@ label= "NAVI";
                 adjust_layer {
 label= "ADJ";
  bindings = <
-                &trans      &kp C_MUTE  &trans      &kp C_PP    &trans          &trans      &kp F7      &kp F8      &kp F9      &kp F12
+                &trans      &kp C_PP    &trans      &kp C_MUTE  &trans          &trans      &kp F7      &kp F8      &kp F9      &kp F12
                 &bt BT_NXT  &kp C_NEXT  &kp C_VOL_UP &kp C_BRI_UP &trans        &trans      &kp F4      &kp F5      &kp F6      &kp F11
     &bt BT_CLR  &bt BT_PRV  &kp C_PREV  &kp C_VOL_DN &kp C_BRI_DN &trans        &trans      &kp F1      &kp F2      &kp F3      &kp F10     &trans
                                         &trans      &sys_reset  &bootloader     &trans      &trans      &trans
