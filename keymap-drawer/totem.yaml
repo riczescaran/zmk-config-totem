@@ -90,9 +90,9 @@ layers:
   - F9
   - F12
   - BT Nxt
-  - Vol+
-  - PREV
   - Bri+
+  - PREV
+  - Vol+
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - F4
@@ -101,9 +101,9 @@ layers:
   - F11
   - BT Clr
   - BT Prv
-  - Vol-
-  - NEXT
   - Bri-
+  - NEXT
+  - Vol-
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - F1
