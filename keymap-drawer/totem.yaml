@@ -82,7 +82,7 @@ layers:
   - '&sys_reset'
   - BT Clr
   - Mute
-  - PREV
+  - PP
   - {t: ▽, type: trans}
   - Bri+
   - F7
@@ -92,7 +92,7 @@ layers:
   - '&bootloader'
   - BT Nxt
   - Vol+
-  - PP
+  - PREV
   - {t: ▽, type: trans}
   - Bri-
   - F4
