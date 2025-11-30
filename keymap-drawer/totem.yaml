@@ -79,7 +79,7 @@ layers:
   - {type: held}
   - '0'
   ADJ:
-  - BT Clr
+  - {t: ▽, type: trans}
   - Mute
   - PP
   - {t: ▽, type: trans}
@@ -99,7 +99,7 @@ layers:
   - F5
   - F6
   - F11
-  - {t: ▽, type: trans}
+  - BT Clr
   - BT Prv
   - Vol-
   - NEXT
