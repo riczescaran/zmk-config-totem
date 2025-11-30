@@ -83,8 +83,8 @@ layers:
   - BT Clr
   - Mute
   - PP
-  - {t: ▽, type: trans}
   - Bri+
+  - {t: ▽, type: trans}
   - F7
   - F8
   - F9
@@ -93,8 +93,8 @@ layers:
   - BT Nxt
   - Vol+
   - PREV
-  - {t: ▽, type: trans}
   - Bri-
+  - {t: ▽, type: trans}
   - F4
   - F5
   - F6
