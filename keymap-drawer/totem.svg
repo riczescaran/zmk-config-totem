@@ -387,7 +387,7 @@ text.mod {
 </g>
 <g transform="translate(144, 62) rotate(-4.0)" class="key keypos-1">
 <rect rx="4" ry="4" x="-28" y="-26" width="55" height="52" class="key"/>
-<text x="0" y="0" class="key tap">Mute</text>
+<text x="0" y="0" class="key tap">PP</text>
 </g>
 <g transform="translate(212, 28)" class="key trans keypos-2">
 <rect rx="4" ry="4" x="-28" y="-26" width="55" height="52" class="key trans"/>
@@ -395,7 +395,7 @@ text.mod {
 </g>
 <g transform="translate(271, 56)" class="key keypos-3">
 <rect rx="4" ry="4" x="-28" y="-26" width="55" height="52" class="key"/>
-<text x="0" y="0" class="key tap">PP</text>
+<text x="0" y="0" class="key tap">Mute</text>
 </g>
 <g transform="translate(330, 65)" class="key trans keypos-4">
 <rect rx="4" ry="4" x="-28" y="-26" width="55" height="52" class="key trans"/>

@@ -80,9 +80,9 @@ layers:
   - '0'
   ADJ:
   - {t: ▽, type: trans}
-  - Mute
-  - {t: ▽, type: trans}
   - PP
+  - {t: ▽, type: trans}
+  - Mute
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - F7
