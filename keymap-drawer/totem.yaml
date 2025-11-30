@@ -79,32 +79,32 @@ layers:
   - {type: held}
   - '0'
   ADJ:
-  - '&sys_reset'
   - BT Clr
   - Mute
   - PP
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - F7
   - F8
   - F9
   - F12
-  - '&bootloader'
   - BT Nxt
   - Vol+
   - PREV
   - Bri+
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - F4
   - F5
   - F6
   - F11
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - BT Prv
   - Vol-
   - NEXT
   - Bri-
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - F1
   - F2
@@ -112,8 +112,8 @@ layers:
   - F10
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '&sys_reset'
+  - '&bootloader'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
