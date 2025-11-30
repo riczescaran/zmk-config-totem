@@ -11,7 +11,7 @@ layers:
   - I
   - O
   - P
-  - A
+  - {t: A, h: Alt}
   - S
   - D
   - F
@@ -38,7 +38,7 @@ layers:
   - ___
   - {t: Enter, h: Alt}
   - {t: Bksp, h: NAVI}
-  - {t: Alt, h: ADJ}
+  - {t: DEL, h: ADJ}
   NAVI:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
