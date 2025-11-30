@@ -81,8 +81,8 @@ layers:
   ADJ:
   - {t: ▽, type: trans}
   - Mute
-  - PP
   - {t: ▽, type: trans}
+  - PP
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - F7
