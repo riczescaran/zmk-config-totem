@@ -399,9 +399,9 @@ text.mod {
 <rect rx="4" ry="4" x="-28" y="-26" width="55" height="52" class="key"/>
 <text x="0" y="0" class="key tap">PP</text>
 </g>
-<g transform="translate(330, 65)" class="key keypos-4">
-<rect rx="4" ry="4" x="-28" y="-26" width="55" height="52" class="key"/>
-<text x="0" y="0" class="key tap">Bri+</text>
+<g transform="translate(330, 65)" class="key trans keypos-4">
+<rect rx="4" ry="4" x="-28" y="-26" width="55" height="52" class="key trans"/>
+<text x="0" y="0" class="key trans tap">▽</text>
 </g>
 <g transform="translate(520, 65)" class="key trans keypos-5">
 <rect rx="4" ry="4" x="-28" y="-26" width="55" height="52" class="key trans"/>
@@ -443,7 +443,7 @@ text.mod {
 </g>
 <g transform="translate(330, 121)" class="key keypos-14">
 <rect rx="4" ry="4" x="-28" y="-26" width="55" height="52" class="key"/>
-<text x="0" y="0" class="key tap">Bri-</text>
+<text x="0" y="0" class="key tap">Bri+</text>
 </g>
 <g transform="translate(520, 121)" class="key trans keypos-15">
 <rect rx="4" ry="4" x="-28" y="-26" width="55" height="52" class="key trans"/>
@@ -487,9 +487,9 @@ text.mod {
 <rect rx="4" ry="4" x="-28" y="-26" width="55" height="52" class="key"/>
 <text x="0" y="0" class="key tap">NEXT</text>
 </g>
-<g transform="translate(330, 177)" class="key trans keypos-25">
-<rect rx="4" ry="4" x="-28" y="-26" width="55" height="52" class="key trans"/>
-<text x="0" y="0" class="key trans tap">▽</text>
+<g transform="translate(330, 177)" class="key keypos-25">
+<rect rx="4" ry="4" x="-28" y="-26" width="55" height="52" class="key"/>
+<text x="0" y="0" class="key tap">Bri-</text>
 </g>
 <g transform="translate(520, 177)" class="key trans keypos-26">
 <rect rx="4" ry="4" x="-28" y="-26" width="55" height="52" class="key trans"/>
